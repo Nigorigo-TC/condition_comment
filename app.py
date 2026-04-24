@@ -79,7 +79,7 @@ th{
 
 <script>
 const SUPABASE_URL = "https://zadmkthnxgbgsipxciuf.supabase.co";
-const SUPABASE_KEY = "あなたのanonkey";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InphZG1rdGhueGdiZ3NpcHhjaXVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM2NjMxNTEsImV4cCI6MjA1OTIzOTE1MX0.dv5vl3aZ6gcaDHi2-W3F4rT4wTrB3U1jgretX-yG_VU";
 
 const STAFF_TEAM = "nigorigo"; // ←固定所属
 
